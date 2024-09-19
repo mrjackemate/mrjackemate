@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Visual Studio Code
 - 💞️ I’m looking to collaborate on anything and everything as long as i am learning
 - 📫 How to reach me josesanchezconrado@gmail.com
-- 😄 Pronouns: engineer, photograper, 
+- 😄 Pronouns: engineer, photograper, avid cyclist, coffee lover
 - ⚡ Fun fact: I am jaranero
 
 <!---
